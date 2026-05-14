@@ -4,4 +4,4 @@
 
 ---
 
-*This tool created by [UDL4-4HD]*
+*This tool created by UDL4-4HD*
